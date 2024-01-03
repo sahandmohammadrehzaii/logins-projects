@@ -3,6 +3,6 @@
 
 <h1>
 
-in the name 
+in the name of 
   
 </h1>
